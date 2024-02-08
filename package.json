@@ -1,6 +1,6 @@
 {
   "homepage": "https://ajay-pvs.github.io/bookmyshow",
-  "name": "website",
+  "name": "bookmyshow",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
