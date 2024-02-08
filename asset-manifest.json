@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bookmyshow/static/css/main.d8818f07.css",
+    "main.js": "/bookmyshow/static/js/main.28b6667e.js",
+    "static/js/592.f195dc85.chunk.js": "/bookmyshow/static/js/592.f195dc85.chunk.js",
+    "static/media/bicycle.jpg": "/bookmyshow/static/media/bicycle.d841464c26f96f68d79b.jpg",
+    "static/media/bus.png": "/bookmyshow/static/media/bus.c654eabc37905c114349.png",
+    "static/media/sedanCar.jpg": "/bookmyshow/static/media/sedanCar.08b46633df1fa904657b.jpg",
+    "static/media/smallcar.jpg": "/bookmyshow/static/media/smallcar.132dff1c49c4cc21adc1.jpg",
+    "static/media/motorcycle.jpg": "/bookmyshow/static/media/motorcycle.8927713eadbbb67491f1.jpg",
+    "static/media/autoRicksaw.png": "/bookmyshow/static/media/autoRicksaw.1cbeaf90a5788609df27.png",
+    "static/media/slick.svg": "/bookmyshow/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/bookmyshow/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/bookmyshow/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/bookmyshow/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/bookmyshow/index.html",
+    "main.d8818f07.css.map": "/bookmyshow/static/css/main.d8818f07.css.map",
+    "main.28b6667e.js.map": "/bookmyshow/static/js/main.28b6667e.js.map",
+    "592.f195dc85.chunk.js.map": "/bookmyshow/static/js/592.f195dc85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8818f07.css",
+    "static/js/main.28b6667e.js"
+  ]
+}
