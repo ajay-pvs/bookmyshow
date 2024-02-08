@@ -1,23 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
-
+//import "./App.css";
+// import Movies from "./Movies/Movies.js";
+// import LiveEvents from "./LiveEvents/LiveEvents.js";
+// import Premires from "./Premires/Premires.js";
+// import EventsNearBy from "./EventsNearBy/EventsNearBy.js";
+// import OnlineEvents from "./OnlineEvents/OnlineEvents.js";
+// import OutdoorEvents from "./OutdoorEvents/OutdoorEvents.js";
+// import GamesSports from "./GamesSportsEvents/GamesSports.js";
+// import Footer from "./Footer/Footer.js";
+// import NavBar from "./NavBar/NavBar.tsx";
+// import NavBarBottom from "./NavBar/NavBarBottom.js";
+// import Banner from "./Banner/Banner";
+// import MoviesPage from "./MoviesPage/MoviesPage.js"
+import Router from "./Router.js";
+import SeatBookingFullPage from "./SeatBookingPage/SeatBookingFullPage.js";
+import HomePage from "./HomePage/HomePage.js";
+import CheckOut from "./CheckOutPage/CheckOut.js"
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Router/>
+      {
+      /* <NavBar />
+      <NavBarBottom />
+      <Banner />
+      <Movies />
+      <LiveEvents />
+      <Premires />
+      <EventsNearBy />
+      <OnlineEvents />
+      <OutdoorEvents />
+      <GamesSports />
+      <Footer /> */
+      }
     </div>
   );
 }
