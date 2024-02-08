@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bookmyshow/static/css/main.d8818f07.css",
-    "main.js": "/bookmyshow/static/js/main.28b6667e.js",
-    "static/js/592.f195dc85.chunk.js": "/bookmyshow/static/js/592.f195dc85.chunk.js",
+    "main.js": "/bookmyshow/static/js/main.69feb31b.js",
+    "static/js/592.b4ca6d15.chunk.js": "/bookmyshow/static/js/592.b4ca6d15.chunk.js",
     "static/media/bicycle.jpg": "/bookmyshow/static/media/bicycle.d841464c26f96f68d79b.jpg",
     "static/media/bus.png": "/bookmyshow/static/media/bus.c654eabc37905c114349.png",
     "static/media/sedanCar.jpg": "/bookmyshow/static/media/sedanCar.08b46633df1fa904657b.jpg",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/bookmyshow/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bookmyshow/index.html",
     "main.d8818f07.css.map": "/bookmyshow/static/css/main.d8818f07.css.map",
-    "main.28b6667e.js.map": "/bookmyshow/static/js/main.28b6667e.js.map",
-    "592.f195dc85.chunk.js.map": "/bookmyshow/static/js/592.f195dc85.chunk.js.map"
+    "main.69feb31b.js.map": "/bookmyshow/static/js/main.69feb31b.js.map",
+    "592.b4ca6d15.chunk.js.map": "/bookmyshow/static/js/592.b4ca6d15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8818f07.css",
-    "static/js/main.28b6667e.js"
+    "static/js/main.69feb31b.js"
   ]
 }
