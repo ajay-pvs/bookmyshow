@@ -76,7 +76,7 @@
   }
   
  
-  @media (min-width: 320px) and (max-width: 720px) {
+  @media (min-width:320px) and (max-width:670px){
     .box {
       width: 100%; 
       margin: 10px;
@@ -98,30 +98,6 @@
   }
   
   
-/*   @media (max-width: 320px) {
-    .movies-box-row {
-      flex-direction: column;
-    }
-  
-    .box {
-      width: 100%;
-      margin: 10px 0;
-    }
-  
-    .title {
-      font-size: 18px;
-    }
-  
-    h3.name {
-      font-size: 14px;
-      margin-top: 10px;
-    }
-  
-    p.genre {
-      font-size: 12px;
-      margin-top: 4px;
-    }
-  } */
   
 
   
