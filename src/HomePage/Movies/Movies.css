@@ -20,11 +20,11 @@ body{
     padding: 0 10px;
     flex: 0 0 24%;
 }
-.img-box img {
+/* .img-box img {
     border-radius: 8px 8px 0 0;
     width: 100%;
     cursor: pointer;
-}
+} */
 
 h3.name {
     font-weight: 500;
@@ -81,9 +81,18 @@ p.genre {
     display: flex  !important;
     align-items: center  !important;
 }
-/* mobile view */
-/* @media (min-width:320px) and (max-width:768px) { 
+@media (min-width:320px) and (max-width:768px) { 
     .box {
         margin: 10px 0;
+        
     }
-} */
+  
+}
+@media(min-width:1000px){
+    .img-box img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px 8px 0 0;
+        cursor: pointer;
+}
+}
