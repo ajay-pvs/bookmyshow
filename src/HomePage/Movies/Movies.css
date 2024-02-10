@@ -54,7 +54,7 @@
 }
   
   
-  @media (min-width: 721px) and (max-width: 1000px) {
+/*   @media (min-width: 721px) and (max-width: 1000px) {
     .box {
       width: 31%; 
       margin: 10px;
@@ -73,7 +73,7 @@
       font-size: 16px;
       margin-top: 8px;
     }
-  }
+  } */
   
  
   @media (min-width:320px) and (max-width:670px){
