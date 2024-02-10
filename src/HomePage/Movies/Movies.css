@@ -98,7 +98,7 @@
   }
   
   
-  @media (max-width: 320px) {
+/*   @media (max-width: 320px) {
     .movies-box-row {
       flex-direction: column;
     }
@@ -121,7 +121,7 @@
       font-size: 12px;
       margin-top: 4px;
     }
-  }
+  } */
   
 
   
