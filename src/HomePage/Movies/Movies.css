@@ -81,6 +81,7 @@
 
 @media (max-width: 719px) {
   .movies-box-row {
+    width:100%;
     flex-direction: column;
   }
 
