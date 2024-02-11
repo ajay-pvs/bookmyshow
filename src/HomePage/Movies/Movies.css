@@ -1,4 +1,5 @@
 
+
 @media (min-width: 1000px) {
   .movies-box-row {
     display: flex;
@@ -77,18 +78,32 @@
     font-size: 16px;
     margin-top: 8px;
   }
+  .stream-movie {
+    padding-bottom: 3rem;
+    margin: 2rem 0;
+  }
+
+  .stream-movie img {
+    width: 100%;
+  }
 }
 
 @media (max-width: 719px) {
+  
   .movies-box-row {
-    width:100%;
     flex-direction: column;
   }
 
   .box {
     width: 100%;
     margin: 10px 0;
-     box-sizing: border-box;
+   
+  }
+  .img-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+    cursor: pointer;
   }
 
   .title {
