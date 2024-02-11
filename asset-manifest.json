@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bookmyshow/static/css/main.ce6cc832.css",
+    "main.css": "/bookmyshow/static/css/main.db138f3a.css",
     "main.js": "/bookmyshow/static/js/main.a02d0c35.js",
     "static/js/592.b4ca6d15.chunk.js": "/bookmyshow/static/js/592.b4ca6d15.chunk.js",
     "static/media/bicycle.jpg": "/bookmyshow/static/media/bicycle.d841464c26f96f68d79b.jpg",
@@ -14,12 +14,12 @@
     "static/media/slick.ttf": "/bookmyshow/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bookmyshow/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bookmyshow/index.html",
-    "main.ce6cc832.css.map": "/bookmyshow/static/css/main.ce6cc832.css.map",
+    "main.db138f3a.css.map": "/bookmyshow/static/css/main.db138f3a.css.map",
     "main.a02d0c35.js.map": "/bookmyshow/static/js/main.a02d0c35.js.map",
     "592.b4ca6d15.chunk.js.map": "/bookmyshow/static/js/592.b4ca6d15.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce6cc832.css",
+    "static/css/main.db138f3a.css",
     "static/js/main.a02d0c35.js"
   ]
 }
